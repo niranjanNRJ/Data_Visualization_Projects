@@ -70,3 +70,20 @@ This Power BI dashboard provides a comprehensive visualization of Blinkit's sale
 4. Explore tabs for total sales, average sales, number of items, and ratings.
 
 ---
+## 🔗 Dataset Source
+
+📊 [Blinkit Grocery Dataset – Kaggle](https://www.kaggle.com/datasets/arunkumaroraon/blinkit-grocery-dataset)
+
+---
+
+## 📌 License
+
+This project is intended for **educational and non-commercial purposes**.  
+The dataset is publicly available via **Kaggle** and owned by their respective data providers.
+
+---
+
+## 🙌 Acknowledgments
+
+- [**Kaggle**](https://www.kaggle.com/) – for the open-source Blinkit Grocery Dataset.  
+- [**Power BI**](https://www.microsoft.com/en-us/power-platform/products/power-bi) – for providing powerful data visualization tools.
