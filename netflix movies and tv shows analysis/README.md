@@ -1,4 +1,4 @@
-# 📺 Netflix Data Dashboard using Tableau
+# 📺 Netflix Data Dashboard - Tableau
 
 ![Netflix Dashboard](Netflix.png)
 
