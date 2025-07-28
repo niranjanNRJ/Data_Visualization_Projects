@@ -70,11 +70,3 @@ This Power BI dashboard provides a comprehensive visualization of Blinkit's sale
 4. Explore tabs for total sales, average sales, number of items, and ratings.
 
 ---
-
-## 📬 Contact
-
-For any queries or collaboration opportunities, feel free to reach out:
-
-**Name:** Niranjan  
-**Email:** [your-email@example.com]  
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
