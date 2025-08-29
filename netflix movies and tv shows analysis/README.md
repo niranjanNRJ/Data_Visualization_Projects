@@ -5,7 +5,6 @@
 ## 🔍 Project Overview
 
 This project is a data visualization dashboard created using **Tableau** that analyzes Netflix’s vast content library. The dashboard uncovers insights such as the most common content types, popular genres, distribution by country, release year trends, and content ratings.
-
 This is useful for understanding how Netflix distributes its content, what kind of shows or movies dominate the platform, and how its catalog has evolved over the years.
 
 ---
